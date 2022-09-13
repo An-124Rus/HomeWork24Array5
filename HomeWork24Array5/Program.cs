@@ -33,8 +33,6 @@
                 firstNumbersCount = 0;
 
                 Console.WriteLine($"\nЧисло {array[i - 1]} повторяется {secondNumbersCount} раз(а).");
-
-                secondNumbersCount = 0;
             }
         }
 
