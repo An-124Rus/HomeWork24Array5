@@ -4,9 +4,10 @@
     {
         int minValue = 0;
         int maxValue = 10;
-        int firstNumbersCount = 0;
-        int secondNumbersCount = 0;
-
+        int number = 0;
+        int numbersCount = 1;
+        int maxNumbersCount = 1;
+       
         Random randome = new Random();
 
         Console.Write("Введите длину массива: ");
@@ -23,20 +24,26 @@
 
         for (int i = 1; i < array.Length; i++)
         {
+
             if (array[i] == array[i - 1])
             {
-                firstNumbersCount++;
-            }
-            else if (array[i] != array[i - 1] && firstNumbersCount > secondNumbersCount + 1)
-            {
-                secondNumbersCount = firstNumbersCount + 1;
-                firstNumbersCount = 0;
+                numbersCount++;
 
-                Console.WriteLine($"\nЧисло {array[i - 1]} повторяется {secondNumbersCount} раз(а).");
+                if (numbersCount > maxNumbersCount)
+                {
+                    maxNumbersCount = numbersCount;
+                    number = array[i];
+                }
+            }
+            else
+            {
+                numbersCount = 1;
             }
         }
 
-        if (firstNumbersCount == 0 && secondNumbersCount == 0)
+        if (maxNumbersCount == 1)
             Console.WriteLine($"\nНет подмассива повторяющихся чисел.");
+        else
+            Console.WriteLine($"\nЧисло {number} повторяется {maxNumbersCount} раз(а).");
     }
 }

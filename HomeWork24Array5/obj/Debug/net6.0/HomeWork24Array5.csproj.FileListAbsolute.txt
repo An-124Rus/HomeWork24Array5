@@ -13,3 +13,33 @@ D:\Projects CS\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\refint\HomeWor
 D:\Projects CS\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.pdb
 D:\Projects CS\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.genruntimeconfig.cache
 D:\Projects CS\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\ref\HomeWork24Array5.dll
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.csproj.AssemblyReference.cache
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.AssemblyInfoInputs.cache
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.AssemblyInfo.cs
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.csproj.CoreCompileInputs.cache
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.dll
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\refint\HomeWork24Array5.dll
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.pdb
+D:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.exe
+D:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.deps.json
+D:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.runtimeconfig.json
+D:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.dll
+D:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.pdb
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.genruntimeconfig.cache
+D:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\ref\HomeWork24Array5.dll
+E:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.exe
+E:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.deps.json
+E:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.runtimeconfig.json
+E:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.dll
+E:\Repos\HomeWork24Array5\HomeWork24Array5\bin\Debug\net6.0\HomeWork24Array5.pdb
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.csproj.AssemblyReference.cache
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.AssemblyInfoInputs.cache
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.AssemblyInfo.cs
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.csproj.CoreCompileInputs.cache
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.dll
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\refint\HomeWork24Array5.dll
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.pdb
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\HomeWork24Array5.genruntimeconfig.cache
+E:\Repos\HomeWork24Array5\HomeWork24Array5\obj\Debug\net6.0\ref\HomeWork24Array5.dll
